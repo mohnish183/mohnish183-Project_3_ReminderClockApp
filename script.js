@@ -199,7 +199,6 @@ function mouseOut() {
 function changeData() {
   let date = new Date();
   let h = date.getHours();
-  console.log("run");
 
   setInterval(() => {
     //for morning
